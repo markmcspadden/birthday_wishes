@@ -4,11 +4,12 @@ require File.expand_path(File.dirname(__FILE__) + '/wish')
 
 def display_heading(heading)
   puts "\n#{heading}\n"
+  puts "================================"
 end
 
 def display_breakdown(breakdown)
   @wishes.group_by(&"#{breakdown}".to_sym).each do |breakdown, wishes|
-    puts "#{breakdown} | #{wishes.size} | #{((wishes.size/@wishes.size.to_f)*100).to_i}%"
+    puts "%-*s | %*d | %*d%" % [12, breakdown, 3, wishes.size, 3, ((wishes.size/@wishes.size.to_f)*100).to_i]
   end
 end
 
