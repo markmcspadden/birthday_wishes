@@ -15,23 +15,24 @@ h2. Mark's 29th Birthday Breakdown
 I appreciate each and every one of these :)
 
 <pre>
-Total Birthday Wishes: 37
+Total Birthday Wishes: 38
 ================================
 
 Breakdown by Medium
 ================================
-sms          |   3 |   8%
 live         |   7 |  18%
 phone        |   1 |   2%
-facebook     |  22 |  59%
+sms          |   3 |   7%
+twitter      |   3 |   7%
+facebook     |  22 |  57%
 email        |   1 |   2%
-twitter      |   3 |   8%
+github       |   1 |   2%
 
 Breakdown by Relationship
 ================================
-family       |  15 |  40%
-professional |   6 |  16%
-friend       |  16 |  43%
+family       |  15 |  39%
+friend       |  17 |  44%
+professional |   6 |  15%
 </pre>
 
 h2. Todo

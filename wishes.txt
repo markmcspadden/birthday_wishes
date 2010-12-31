@@ -46,3 +46,6 @@
 
 # Email
 "email", "family", 10, "2010-12-30 04:00", true
+
+# Github Commit Comment
+"github", "friend", 2, "2010-12-30 23:30"
