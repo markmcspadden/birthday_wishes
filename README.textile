@@ -7,7 +7,7 @@ h2. Usage
 
 Create your own "wishes.txt" file.
 Create your own "YOUR_NAME_birthday.rb" file based on the "marks_birthday.rb" template
-run 'ruby YOUR_NAME_birthday.rb"
+run "ruby YOUR_NAME_birthday.rb"
 
 
 h2. Mark's 29th Birthday Breakdown
