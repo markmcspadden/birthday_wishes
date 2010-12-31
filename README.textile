@@ -1,16 +1,16 @@
-Birthday Wishes!
+h1. Birthday Wishes!
 
 An idea to look at where birthday wishes come from. Yes, I wrote this on my Birthday.
 
 
-Usage
+h2. Usage
 
 Create your own "wishes.txt" file.
 Create your own "YOUR_NAME_birthday.rb" file based on the "marks_birthday.rb" template
 run 'ruby YOUR_NAME_birthday.rb"
 
 
-My 29th Birthday Breakdown
+h2. Mark's 29th Birthday Breakdown
 
 I appreciate each and every one of these :)
 
@@ -30,7 +30,7 @@ professional | 6 | 16%
 friend | 16 | 43%
 
 
-Todo
+h2. Todo
 
 Use twitter api to pull in wishes
 Use facebook api to pull in wishes
