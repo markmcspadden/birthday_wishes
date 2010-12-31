@@ -14,6 +14,7 @@ h2. Mark's 29th Birthday Breakdown
 
 I appreciate each and every one of these :)
 
+<pre>
 Total Birthday Wishes: 37
 ================================
 
@@ -31,7 +32,7 @@ Breakdown by Relationship
 family       |  15 |  40%
 professional |   6 |  16%
 friend       |  16 |  43%
-
+</pre>
 
 h2. Todo
 
