@@ -1,0 +1,18 @@
+Birthday Wishes!
+
+An idea to look at where birthday wishes come from. Yes, I wrote this on my Birthday.
+
+
+Usage
+
+Create your own "wishes.txt" file.
+Create your own "YOUR_NAME_birthday.rb" file based on the "marks_birthday.rb" template
+run 'ruby YOUR_NAME_birthday.rb"
+
+
+Todo
+
+Use twitter api to pull in wishes
+Use facebook api to pull in wishes
+
+But honestly, if you have enough friends/family where you can't enter these things manually and you HAVE to use the APIs...well then look at you...
