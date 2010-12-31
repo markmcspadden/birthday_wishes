@@ -1,0 +1,48 @@
+# Live
+"live", "family", 10, "2010-12-30 04:00", true
+"live", "friend", 10, "2010-12-30 14:00"
+"live", "friend", 7, "2010-12-30 14:00"
+"live", "family", 29, "2010-12-30 17:00", true
+"live", "family", 29, "2010-12-30 17:00"
+"live", "family", 25, "2010-12-30 17:20"
+"live", "family", 3, "2010-12-30 17:20"
+
+# Phone calls
+"phone", "family", 27, "2010-12-30 17:15"
+
+# SMS
+"sms", "family", 5, "2010-12-30 11:27"
+"sms", "friend", 5, "2010-12-30 12:21"
+"sms", "friend", 14, "2010-12-30 13:14"
+
+# Twitter
+"twitter", "professional", 3, "2010-12-30 12:20"
+"twitter", "professional", 2, "2010-12-30 12:30"
+"twitter", "friend", 10, "2010-12-30 12:30"
+
+# Facebook
+"facebook", "friend", 2, "2010-12-30 07:00"
+"facebook", "family", 10, "2010-12-30 08:00"
+"facebook", "friend", 4, "2010-12-30 08:50"
+"facebook", "friend", 2, "2010-12-30 09:00"
+"facebook", "family", 4, "2010-12-30 09:30"
+"facebook", "family", 17, "2010-12-30 09:40"
+"facebook", "professional", 4, "2010-12-30 09:50"
+"facebook", "professional", 1, "2010-12-30 10:10"
+"facebook", "family", 19, "2010-12-30 10:20"
+"facebook", "friend", 2, "2010-12-30 10:30"
+"facebook", "friend", 4, "2010-12-30 10:40"
+"facebook", "family", 29, "2010-12-30 10:50", true
+"facebook", "friend", 9, "2010-12-30 11:00"
+"facebook", "family", 4, "2010-12-30 11:10"
+"facebook", "friend", 10, "2010-12-30 11:20"
+"facebook", "friend", 5, "2010-12-30 11:30"
+"facebook", "professional", 3, "2010-12-30 12:00"
+"facebook", "professional", 3, "2010-12-30 15:00"
+"facebook", "family", 10, "2010-12-30 17:30", true
+"facebook", "friend", 2, "2010-12-30 19:20"
+"facebook", "friend", 11, "2010-12-30 21:00"
+"facebook", "friend", 2, "2010-12-30 21:30"
+
+# Email
+"email", "family", 10, "2010-12-30 04:00", true
